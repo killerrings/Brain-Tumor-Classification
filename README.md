@@ -1,7 +1,7 @@
 # Brain-Tumor-Classification
 • This repository consists of files required to deploy a **Machine Learning** Web App created with **Streamlit** on Heroku platform.
 
-• If you want to check the deployed model, click on the following link:
+• If you want to check the deployed model, click on the following link:<br>
 Deployed at: https://brain-cancer-classifier.herokuapp.com/
 
 • Installing<br>
@@ -9,7 +9,7 @@ Clone this repository to your local computer
 ```
 git clone https://github.com/killerrings/Handwritten-digit-recognition-deployment.git
 ```
-Run
+then run
 ```
 pip install requirements.txt
 streamlit run app.py
