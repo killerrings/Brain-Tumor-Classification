@@ -7,7 +7,7 @@ Deployed at: https://brain-cancer-classifier.herokuapp.com/
 • Installing<br>
 Clone this repository to your local computer
 ```
-git clone https://github.com/killerrings/Handwritten-digit-recognition-deployment.git
+git clone https://github.com/killerrings/Brain-Tumor-Classification.git
 ```
 then run
 ```
